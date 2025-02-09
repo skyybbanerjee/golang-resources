@@ -40,3 +40,8 @@ func main() {
 	fmt.Printf("\nRatio (EBT/profit): $%.2f", ratio)
 
 }
+
+//functions ()
+func outputTxt(txt, txt2 string){
+fmt.Print(txt, txt2)
+}
